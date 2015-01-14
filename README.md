@@ -1,2 +1,7 @@
 # Manager-Repository-Files
-Files that gonna organize folders and stuff like thar in LINF's desktops. 
+
+Here are the edition of each important description of code's project. 
+
+> Segmentation
+> What each program can do
+> More ideas to implementate on Trello
